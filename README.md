@@ -68,7 +68,7 @@ Explore and analyze Airbnb listings data to understand pricing, demand, and neig
 
 - **Time Series Analysis:**
   - Checked the earliest and latest review dates in the dataset for time coverage
-  - Plotted monthly number of reviews for specific years (e.g., 2020 and 2024) to observe seasonal or annual trends
+  - Plotted monthly number of reviews for a specific year (2024) to observe seasonal or annual trends
 
 - **Correlation Heatmap:**
   - Visualized correlations between key numerical features (price, minimum nights, number of reviews, reviews per month, availability) to uncover potential drivers of price or demand
