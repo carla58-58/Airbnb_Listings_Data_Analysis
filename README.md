@@ -1,6 +1,5 @@
 # Airbnb_Listings_Data_Analysis
 
-View the interactive notebook on Google Colab:  
 [Open in Google Colab](https://colab.research.google.com/drive/1Hi8XXk1GVdXN4R78jDY3f2KZgaQLjjQz?usp=sharing)
 
 ## 1. Project Overview
